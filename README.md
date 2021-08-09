@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AlishKen
-- 👀 I’m interested in travel
+- 👋 Hi, I’m @Alisher Kenzhebaev
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on China
 - 📫 How to reach me +996707340701
 
 <!---
